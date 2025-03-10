@@ -1,0 +1,9 @@
+alert là hiển thị thông báo ra màn hình cho người dùng
+console.log(giá tri truyền vào). Hiển thị tại console trong phần phần mở rộng
+- Khai báo biến:
+    + trong js có 3 từ khoá để khai báo biến
+        1) var: Phạm vi function. có thể bị hoisted
+        2) let: Nằm trong phạm vi, có thể thay đổi giá trị
+        3) const: không thể thay đổi giá trị
+        4) prompt: Nhập từ bàn phím
+- Hàm function
